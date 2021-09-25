@@ -1,1 +1,2 @@
 # Stock-price-analysis
+This project is just an exercise project to practice data visualization. In this project we analyze the financial crisis of the 2008 and study the trends in the stock market for selective companies like " Bank of America ", "citigroup," JP morgan", " Goldman Sachs" and a few other companies. This is just a small learning exercise. Here the data is taken from online using the pandas DataReader.
